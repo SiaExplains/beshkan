@@ -1,3 +1,10 @@
+## [1.0.3] - 2025-03-29
+### Changed
+- Updated `keywords` field in `package.json` to include relevant terms for better discoverability.
+
+### Updated
+- Revised the `README.md` file to reflect the latest project changes and usage instructions.
+
 ## [1.0.2] - 2025-03-29
 
 ### Added

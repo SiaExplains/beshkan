@@ -1,6 +1,6 @@
 {
   "name": "beshkan",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Intelligent IT Solution maker which create Full stack web application with just one command.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,28 @@
   "bin": {
     "beshkan": "./bin/index.js"
   },
-  "keywords": [],
+  "keywords": [
+  "cli",
+  "full-stack",
+  "site-builder",
+  "nextjs",
+  "nestjs",
+  "express",
+  "typescript",
+  "project-generator",
+  "code-generator",
+  "web-app",
+  "boilerplate",
+  "template",
+  "scaffolding",
+  "starter-kit",
+  "frontend",
+  "backend",
+  "monorepo",
+  "setup-tool",
+  "beshkan",
+  "web-development"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
