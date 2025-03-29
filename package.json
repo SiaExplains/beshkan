@@ -1,7 +1,7 @@
 {
   "name": "beshkan",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Intelligent IT Solution maker which create Full stack web application with just one command.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
