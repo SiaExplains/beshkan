@@ -1,3 +1,7 @@
+## [1.0.4] - 2025-04-22
+### Changed
+- Update project creation script to replace placeholders in package.json and bump version to 1.0.4
+
 ## [1.0.3] - 2025-03-29
 ### Changed
 - Updated `keywords` field in `package.json` to include relevant terms for better discoverability.

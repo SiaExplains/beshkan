@@ -65,8 +65,12 @@ const askQuestion = (query) => {
       }
     };
 
+    const packJsonFilePath = path.join(process.cwd(), projectName, 'frontend', 'package.json');
+
     replaceParam('<<<APP_NAME>>>', arg_title, layoutFilePath);
     replaceParam('<<<APP_DESCRIPTION>>>', arg_description, layoutFilePath);
+    replaceParam('<<<APP_NAME>>>', arg_title, packJsonFilePath);
+    replaceParam('<<<APP_DESCRIPTION>>>', arg_description, packJsonFilePath);
 
     console.log(`✅ Project "${projectName}" created and unlinked from Git history.`);
   } catch (error) {

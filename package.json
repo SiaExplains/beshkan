@@ -1,6 +1,6 @@
 {
   "name": "beshkan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Intelligent IT Solution maker which create Full stack web application with just one command.",
   "main": "index.js",
   "scripts": {
